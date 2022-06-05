@@ -1,2 +1,2 @@
-- 📌 I'm developing and managing OriginMC.
-- 💻 I'm currently learning Java.
+📌 I'm developing and managing OriginMC.
+💻 I'm currently learning Java.
